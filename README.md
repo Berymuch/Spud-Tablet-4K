@@ -11,7 +11,7 @@
 
 *REQUIRED:*
 
-0.  This code tweaks settings in files in your Spud Tablet installation folder to properly scale and center the cursor tracking to fit losslessly on a 4k display. I've also included modified graphic files and templates to go with the increase in resolution- enjoy!
+0.  **This code tweaks settings in files in your Spud Tablet installation folder to properly scale and center the cursor tracking to fit losslessly on a 4k display.** I've also included modified graphic files and templates to go with the increase in resolution- enjoy!
 1.  Drag and drop the files into your installation folder. It will ask to overrite if you have chosen the proper folder
 
 *OPTIONAL:*
